@@ -1,0 +1,15 @@
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\bin\Debug\net6.0\CelularApp.exe
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\bin\Debug\net6.0\CelularApp.deps.json
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\bin\Debug\net6.0\CelularApp.runtimeconfig.json
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\bin\Debug\net6.0\CelularApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\bin\Debug\net6.0\CelularApp.pdb
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.csproj.AssemblyReference.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.AssemblyInfoInputs.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.AssemblyInfo.cs
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.csproj.CoreCompileInputs.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\refint\CelularApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.pdb
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\CelularApp.genruntimeconfig.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\CelularApp\CelularApp\obj\Debug\net6.0\ref\CelularApp.dll
